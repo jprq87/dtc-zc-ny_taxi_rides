@@ -3,10 +3,10 @@ version: 2
 sources:
     - name: staging
       #For bigquery:
-      #database: taxi-rides-ny-339813
+      database: fluent-flame-379404
 
       # For postgres:
-      database: fluent-flame-379404
+      # database: fluent-flame-379404
 
       schema: trips_data_all
 
